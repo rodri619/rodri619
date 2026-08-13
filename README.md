@@ -48,6 +48,6 @@
 
 <p align="left">
   <!-- Reemplaza los enlaces de abajo con los tuyos -->
-  <a href="linkedin.com/in/rodrigo-jimenez-unam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rodrigo-jimenez-unam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rodrigo.jimenez@ciencias.unam.mx"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
